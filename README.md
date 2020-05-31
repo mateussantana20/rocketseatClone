@@ -1,6 +1,6 @@
 # rocketseatClone
 
-![cinnamon-20200531-2-_online-video-cutter com_](https://user-images.githubusercontent.com/49589069/83364361-41e23180-a377-11ea-8fbc-27c6f09e0ee5.gif width="400px")
+![cinnamon-20200531-2-_online-video-cutter com_](https://user-images.githubusercontent.com/49589069/83364361-41e23180-a377-11ea-8fbc-27c6f09e0ee5.gif)
 
 
 ![cinnamon-20200531-2-_online-video-cutter com_-_1_](https://user-images.githubusercontent.com/49589069/83364362-44448b80-a377-11ea-9ae2-1f3dd33f3115.gif)
